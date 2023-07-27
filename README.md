@@ -1,5 +1,5 @@
 
-<center> <img src="Images/iupb.png" width="500px"/> </center>
+<center> <img src="Images/iupb_logo.png" width="500px"/> </center>
 
 
 # Repositorio Curso Aprendizaje de máquinas - IUPB
