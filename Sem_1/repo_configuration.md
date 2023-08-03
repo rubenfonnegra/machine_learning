@@ -33,7 +33,7 @@ You will have to fork the repository in order to introduce your own changes and 
 - Go back to your notebook and run the following command
 
 ```
-!git clone github.com/<your_username>/machine_learning
+!git clone https://github.com/<your_username>/machine_learning.git 
 ```
 
 - Navigate inside the repository using the ```cd``` command.
