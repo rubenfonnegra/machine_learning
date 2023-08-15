@@ -139,3 +139,58 @@ repository = "machine_learning"
 
 **NOTE:** You can only update changes after commiting changes. Do NOT forget to create a commit before pushing changes to remote. Otherwise, your changes will not be uploaded.
 
+
+# Updating your forked repo
+
+This section will be useful whenever you need to update your forked repo with changes pushed in the original repository.
+
+- First, you will have to mount your drive and access to your folder as before.
+
+
+```
+%cd /content/drive/path/to/your/folder/ 
+```
+
+- You should also configure your name and email
+
+```
+!git config --global user.email "your-email@pascualbravo.edu.co"
+!git config --global user.name "Your Name or Nickname"
+```
+
+- You should now set the path of the original repository 
+
+```
+# Add the remote, call it "upstream":
+!git remote add upstream https://github.com/rubenfonnegra/machine_learning.git
+```
+
+- Fetch the changes into your own fork repo 
+
+```
+# Fetch all the branches of that remote into remote-tracking branches
+!git fetch upstream
+```
+
+- Checkout to master and rewrite all the changes
+
+```
+!git checkout master
+
+# Rewrite your master branch so that any commits of yours that
+# aren't already in upstream/master are replayed on top of that
+# other branch:
+!git rebase upstream/master
+```
+
+- just in case you have conflicts, you can manually either resolve or skip by using
+
+```
+!git rebase --skip
+```
+
+- Finally, push the changes into your branch
+
+```
+!git push -f origin master
+```
