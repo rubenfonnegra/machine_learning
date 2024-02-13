@@ -78,17 +78,17 @@ You will have to fork the repository in order to introduce your own changes and 
 
 - To configure your remote repository you will need to create a security access token from github to push the changes. Please follow the instructions in this [link](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to create your access token. Do NOT forget your token. You will see it once and will not be able to see it anymore. 
 
-- Once you have your token, download the file ```repo_keys.txt``` within the ```Sem_1``` folder and replace the value of the variable with your own token 
+- Once you have your token, download the file ```repo_keys_sample.txt``` within the ```Sem_01``` folder and replace the value of the variable with your own token 
 
 ```
 GIT_KEY=<your token here>
 ```
 
-- Save the file and upload it again to drive. **NOTE**: Do NOT add or update the ```repo_keys.txt``` to your repository. Consider this is an access token and your fork is public. Everybody will see your token if you update this file. Thereupon, anyone will have access to any repository or code you have stored in github. Be carefull.
+- Save the file and rename it as ```repo_keys.txt```. Then, upload it again to drive. **NOTE**: Do NOT add or update the ```repo_keys.txt``` to your repository. Consider this is an access token and your fork is public. Everybody will see your token if you update this file. Thereupon, anyone will have access to any repository or code you have stored in github. Be carefull.
 - Import your key to Colab using the ```repo_private.py``` file
 
 ```
-from Sem_1.repo_private import GIT_KEY
+from Sem_01.repo_private import GIT_KEY
 ```
 
 - In the same cell, configure your github username and repository name
@@ -115,7 +115,7 @@ repository = "machine_learning"
 ## Step 5: Add changes to your fork
 
 - Create a blank ```example.txt``` file.
-- To start tracking this file to your repo use use the ```add``` command on git. You can also list multiple files and folders to start tracking or changes. In case you modify any existing file, you should add it to your repo to see the changes in the files. Only files with marked with the ```add``` command will be changed in your repository. 
+- To start tracking this file to your repo use use the ```add``` command on git. You can also list multiple files and folders to start tracking or changes. In case you modify any existing file, you should add it to your repo to see the changes in the files. Only marked files with the ```add``` command will be changed in your repository. 
 
 ```
 !git add example.txt
