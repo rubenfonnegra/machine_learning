@@ -18,10 +18,10 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | | Regresión Logística | [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_02/Logistic_Reg.ipynb)
 | **Sem 3** | $k$-Nearest Neighbors | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.me2u198y8oos), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_03/kNN.ipynb)
 | | Naive Bayes | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.nty08v30sx5l), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_03/Naive_Bayes.ipynb)
-| | Máquinas de soporte vectorial (SVMs) | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.7zd0x7hrkr8n), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/SVM.ipynb)
-| **Sem 4**  | Kernels | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.uqs6j5dd4lg2), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/kernels_svm.ipynb)
-|  | Regresión Lineal | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.z352u27amje0), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/Linear_Reg.ipynb)
-| **Sem 5** | Maquinas de regresión de soporte | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.z352u27amje0), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/SVR.ipynb)
+| **Sem 4** | Máquinas de soporte vectorial (SVMs) | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.7zd0x7hrkr8n), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/SVM.ipynb)
+|  | Kernels | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.uqs6j5dd4lg2), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/kernels_svm.ipynb)
+| **Sem 5** | Regresión Lineal | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.z352u27amje0), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/Linear_Reg.ipynb)
+|  | Maquinas de regresión de soporte | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.z352u27amje0), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/SVR.ipynb)
 | | Metricas de evaluación | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.bvsmr3t422hw), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_05/Supervised_Metrics.ipynb)
 | **Sem 6** | Aprendizaje no supervisado | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-3-no-supervisado?authuser=0#h.rzsb4a2ikqmy), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_04/kernels_svm.ipynb)
 |  | $K$-means | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-3-no-supervisado?authuser=0#h.k5zznbcmf03w), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_05/k-means.ipynb)
@@ -39,6 +39,22 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | | Perceptrón multicapa (pytorch) | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.ropr5qjngstd), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_10/MLP_pytorch.ipynb)
 | **Sem 11** | Aumento de datos y dataloaders | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.ropr5qjngstd), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_11/Image_transformations.ipynb)
 | | Redes Convolucionales | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.20sivlktswhj), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_11/Conv1_pytorch.ipynb)
+
+
+
+## Datasets útiles
+
+| Título | Tarea | Link |
+|---|---|---|
+| Fruits dataset | Clasificación | [Link](https://drive.google.com/file/d/1M8tiAWDZclABJN1Meq9oEHCLJTNyHdpP/view)
+| Malaria cells | Clasificación | [Link](https://drive.google.com/file/d/1tCa6MHRUM34pv0wwDBsRkpFqMIZPk6iO/view?usp=drive_link)
+| Noisy captchas | Clasificación | [Link](https://drive.google.com/file/d/1EyZiqMovGI0lZ_uawxAOoGcKm9CBy0kM/view?usp=drive_link)
+| Houses in Iowa | Regresión | [Link](https://drive.google.com/file/d/1BnTVOkFwRxT0wTKdfkbKF26R4iEKKshJ/view?usp=sharing)
+| Natural images | Regresión | [Link](https://drive.google.com/file/d/1hF7a-tBXWm9efkG8yi5T-Yh58V2F5icH/view?usp=drive_link)
+| Heart stroke dataset | Regresión | [Link](https://drive.google.com/file/d/1JNtrwHJukzeK6l5ljvUgB8_8yESZ_qDK/view?usp=drive_link)
+
+
+
 
 
 
