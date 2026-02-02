@@ -12,7 +12,7 @@ En este repositorio se alojan los códigos y material de clase que se utilizará
 
 | Semana | Título | Enlace |
 |---|---|---|
-| **Sem 1** | Introducción y repositorio | [Link](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_01/repo_configuration.md)
+| **Sem 1** | Introducción y repositorio | [Acuerdo](https://docs.google.com/spreadsheets/d/1adB82Mwm8eckA8U-E-lP9nRVyQs9x11J/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [intro](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/inicio/aeae-1-prepar%C3%A1ndome-para-aprender?authuser=0), [repo](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_01/repo_configuration.md)
 |  | Operaciones y básicas con imágenes | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-1-confrontando-mi-saber-unidad-1?authuser=0), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_01/Basics.ipynb)
 
 <!-- 
