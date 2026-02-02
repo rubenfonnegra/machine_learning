@@ -14,6 +14,8 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |---|---|---|
 | **Sem 1** | Introducción y repositorio | [Link](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_01/repo_configuration.md)
 |  | Operaciones y básicas con imágenes | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-1-confrontando-mi-saber-unidad-1?authuser=0), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_01/Basics.ipynb)
+
+<!-- 
 | **Sem 2** | Aprendizaje de máquinas y supervisado | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado?authuser=0#h.w6ilqgb4w9ok)
 | | Regresión Logística | [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_02/Logistic_Reg.ipynb)
 | **Sem 3** | $k$-Nearest Neighbors | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-1/ud1-aeae-2-supervisado#h.me2u198y8oos), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_03/kNN.ipynb)
@@ -40,7 +42,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 11** | Aumento de datos y dataloaders | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.ropr5qjngstd), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_11/Image_transformations.ipynb)
 | | Redes Convolucionales | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.20sivlktswhj), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_11/Conv1_pytorch.ipynb)
 
-
+ -->
 
 ## Datasets útiles
 
