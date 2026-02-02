@@ -4,7 +4,7 @@
 
 # Repositorio Curso Aprendizaje de máquinas - IUPB
 
-En este repo se alojan los códigos y material de clase que se utilizarán para el curso de aprendizaje de máquinas. Los códigos contenidos en este repositorio son complementarios al sitio web del curso que pueden encontrar en el siguiente [link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/presentaci%C3%B3n?authuser=0)
+En este repositorio se alojan los códigos y material de clase que se utilizarán para el curso de aprendizaje de máquinas.
 
 
 
@@ -54,9 +54,6 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Houses in Iowa | Regresión | [Link](https://drive.google.com/file/d/1BnTVOkFwRxT0wTKdfkbKF26R4iEKKshJ/view?usp=sharing)
 | Natural images | Regresión | [Link](https://drive.google.com/file/d/1hF7a-tBXWm9efkG8yi5T-Yh58V2F5icH/view?usp=drive_link)
 | Heart stroke dataset | Regresión | [Link](https://drive.google.com/file/d/1JNtrwHJukzeK6l5ljvUgB8_8yESZ_qDK/view?usp=drive_link)
-
-
-
 
 
 
