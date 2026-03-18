@@ -53,6 +53,8 @@ En este repositorio se alojan los códigos y material de clase que se utilizará
 | Houses in Iowa | Regresión | [Link](https://drive.google.com/file/d/1BnTVOkFwRxT0wTKdfkbKF26R4iEKKshJ/view?usp=sharing)
 | Natural images | Regresión | [Link](https://drive.google.com/file/d/1hF7a-tBXWm9efkG8yi5T-Yh58V2F5icH/view?usp=drive_link)
 | Heart stroke dataset | Regresión | [Link](https://drive.google.com/file/d/1JNtrwHJukzeK6l5ljvUgB8_8yESZ_qDK/view?usp=drive_link)
+| Customer segmentation | Clasificación / Clustering | [Link](https://drive.google.com/file/d/1omMtaPEQRilZzTRYqBM5VXU5oXl2BMG9/view?usp=sharing)
+| Product recommendation| Clasificación / Clustering | [Link](https://drive.google.com/file/d/14V61wky2xXsYwD62EdOfv0AJvH89MG0F/view?usp=sharing)
 
 
 
