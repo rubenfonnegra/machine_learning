@@ -31,10 +31,8 @@ En este repositorio se alojan los códigos y material de clase que se utilizará
 |            | Gradiente descendente | [Link](https://docs.google.com/presentation/d/1KfrC12SdpGSkH7VwgLYFzwuFnyY2RqPX/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Notebook 15](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_10/gradient_descent.ipynb)
 | **Sem 10** | Perceptron simple | [Link](https://docs.google.com/presentation/d/1MXbe3uCH0g1PduwzguRtEdmlAlLxB2Rp/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Notebook 16](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_10/simple_perceptron.ipynb)
 | **Sem 11** | Perceptron Multicapa | [Link](https://docs.google.com/presentation/d/12n1uZBjxpvybTKkrGfQIY435cGxV9uYT/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Notebook 17](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_11/MLP_keras.ipynb)
-<!--| **Sem 8** | Selección de características (variación) | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-1-selecci%C3%B3n?authuser=0#h.z1raf8j6bjim), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_08/Feature_selection.ipynb)
-| | Componentes principales (PCA) | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-1-selecci%C3%B3n?authuser=0#h.op6wuj70ipaq), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_08/PCA.ipynb)
-| | Agrupamiento jeráquico | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-1-selecci%C3%B3n?authuser=0#h.89cgm2j9fbxv), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_08/Agglomerate_feature.ipynb)
-| **Sem 9** | Gradiente descendente | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-2-optimizaci%C3%B3n?authuser=0#h.ui9usrff1768), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_09/gradient_descent.ipynb)
+| **Sem 12** | Redes convolucionales | [Link](https://docs.google.com/presentation/d/12n1uZBjxpvybTKkrGfQIY435cGxV9uYT/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_12/Conv_keras.ipynb)
+<!--| **Sem 9** | Gradiente descendente | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-2-optimizaci%C3%B3n?authuser=0#h.ui9usrff1768), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_09/gradient_descent.ipynb)
 | | Perceptrón simple | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.xxce7vxo8azi), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_09/simple_perceptron.ipynb)
 | **Sem 10** | Función de activación | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.ropr5qjngstd), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_10/nonlinearities_pytorch.ipynb)
 | | Perceptrón multicapa (pytorch) | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.ropr5qjngstd), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_10/MLP_pytorch.ipynb)
@@ -42,7 +40,6 @@ En este repositorio se alojan los códigos y material de clase que se utilizará
 | | Redes Convolucionales | [Link](https://sites.google.com/pascualbravo.edu.co/aprendizaje-de-mquinas-presenc/unidad-did%C3%A1ctica-2/ud2-aeae-3-deep-learning?authuser=0#h.20sivlktswhj), [Notebook](https://github.com/rubenfonnegra/machine_learning/blob/master/Sem_11/Conv1_pytorch.ipynb)
 
  -->
-
  
 
 ## Datasets útiles
